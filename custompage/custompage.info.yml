@@ -1,0 +1,4 @@
+name: NewPage
+type: module
+description: provides the last five articles list
+core: 8.x

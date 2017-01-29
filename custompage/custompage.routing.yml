@@ -1,0 +1,7 @@
+custompage.page:
+  path: '/custompage/articlelist'
+  _defaults:
+    _controller: '\Drupal\custompage\Controller\ArticleList::getContent'
+    _title: 'articlelist'
+    requirements:
+      _permission: 'access content'
